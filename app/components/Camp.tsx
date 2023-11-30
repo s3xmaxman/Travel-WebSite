@@ -71,8 +71,7 @@ const Camp = () => {
               <strong>Feeling Lost</strong> And Not Knowing The Way?
             </h2>
             <p className="regular-14 xl:regular-16 mt-5 text-white">
-            新しいクライミング場所を訪れる際、クライマーたちは不安を感じることがあります。
-            迷子になる可能性が非常に高いからです。だからこそ、冒険を始めたい方々のために私たちがここにいます。
+            新しいクライミング場所を訪れる際、クライマーたちは不安を感じることがあります。迷子になる可能性が非常に高いからです。だからこそ、冒険を始めたい方々のために私たちがここにいます。
             </p>
             <Image 
             src="/quote.svg"

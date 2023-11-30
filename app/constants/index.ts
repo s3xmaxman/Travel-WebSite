@@ -18,32 +18,32 @@ export const NAV_LINKS = [
   // FEATURES SECTION
   export const FEATURES = [
     {
-      title: 'Real maps can be offline',
+      title: 'オフラインで利用可能なリアルマップ',
       icon: '/map.svg',
       variant: 'green',
       description:
-        'We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location',
+        '登山時にもご利用いただけるよう、オフラインマップの提供をしております。ネット接続のない場所でも、どこでも利用可能です',
     },
     {
-      title: 'Set an adventure schedule',
+      title: '冒険の予定を組もう',
       icon: '/calendar.svg',
       variant: 'green',
       description:
-        "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+        "友達と一緒に冒険のスケジュールを組んでみませんか？休日にはHilinkから多くの魅力的なオファーがあります。これで、もはや議論の余地はありませんね。",
     },
     {
-      title: 'Technology using augment reality',
+      title: 'ARを利用した最新技術',
       icon: '/tech.svg',
       variant: 'green',
       description:
-        'Technology uses augmented reality as a guide to your hiking trail in the forest to the top of the mountain. Already supported by the latest technology without an internet connection',
+        '最新のテクノロジーを駆使し、森林のハイキングトレイルから山の頂上までをガイドするために拡張現実（AR）を活用しています。最新の技術によって、インターネット接続なしでも利用可能です。',
     },
     {
-      title: 'Many new locations every month',
+      title: '毎月追加される新しいロケーション',
       icon: '/location.svg',
       variant: 'orange',
       description:
-        'Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing',
+        '毎月たくさんの新しいクライミングスポットが追加されています。なぜなら、私たちには世界中のクライマーのコミュニティがあり、彼らが最高のクライミング体験を共有してくれるからです。',
     },
   ];
   
